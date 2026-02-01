@@ -14,5 +14,3 @@ AI CRM 교육 과정을 수강하며 교육생들이 수업에서 겪는 문제�
 ![프로젝트 노션](https://longhaired-gorilla-5e1.notion.site/276c7ba925808040b05af32351fcfe5f)
 ### payconnect crm project(AI CRM)
 가상회사가 오프라인 매장을 대상으로 출시한 통합 단말기인 'pay connect'를 이용하는 사업
-
-AS-IS
